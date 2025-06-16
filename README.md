@@ -115,7 +115,7 @@ A aplicação será aberta automaticamente no seu navegador padrão.
 
 ## 👨‍💻 Autor
 
-Feito com ❤️ por **Luan Victor Santana de Macêdo, Gabriel Figueiredo de Andrade, Murilo Henrique, Thiago Germano do Nascimento, Caio Gomes**
+Feito com ❤️ por **Luan Victor Santana de Macêdo, Gabriel Figueiredo de Andrade, Murilo Henrique Gomes Fernandes, Thiago Germano do Nascimento, Caio Gomes**
 
 ---
 
